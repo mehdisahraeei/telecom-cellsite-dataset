@@ -27,4 +27,4 @@ This project uses machine learning on anonymized telecom cell site data to disco
 ### 👤 Author  
 **Mehdi Sahraei**  
 📍 Ilam, Iran  
-📧 [mahdi_sahrai@tyahoo.com] | 💼 [https://www.linkedin.com/in/mehdisahraei] 
+📧 [mahdi_sahrai@yahoo.com] | 💼 [https://www.linkedin.com/in/mehdisahraei] 
