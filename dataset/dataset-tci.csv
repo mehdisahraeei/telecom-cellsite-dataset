@@ -1,0 +1,341 @@
+site code,sharing-status,site type,tower type,tower height, tech number-2G, tech number-3G, tech number-4G, tech number-5G,company-antenna,antenna number of sector 1,angle of sector 1,mechanical tilt of sector 1,antenna tip of sector 1,antenna number of sector 2,angle of sector 2,mechanical tilt of sector 2,antenna tip of sector 2,antenna number of sector 3,angle of sector 3,mechanical tilt of sector 3,antenna tip of sector 3,antenna number of sector 4,angle of sector 4,mechanical tilt of sector 4,antenna tip of sector 4,power sepration amper,power sharing coding,power type,pahse coding,calc Amper,radio image tag,link type,percent of being full
+MTR_f624pd0,yes,Outdoor,Lattice,42,1,0,1,0,Antenkar,2,288,1,2X-Pol,2,288,1,2X-Pol,2,288,1,2X-Pol,2,288,1,2X-Pol,25,MCI,AC,3,1,2,MW,87
+MTR_t118ka1,yes,Outdoor,NB Lattice Tower,42,3,3,4,2,Antenkar,2,325,1,2X-Pol,2,325,1,2X-Pol,2,325,1,2X-Pol,2,325,1,2X-Pol,32,MCI,AC,3,1,1,MW,72
+MTR_a155mz1,no,Indoor,Lattice,36,2,2,2,1,Takta,2,350,0.2,2X-Pol,2,350,0.2,2X-Pol,2,350,0.2,2X-Pol,2,350,0.2,2X-Pol,16,TM,AC,0,32,1,BW-ETH,74
+MTR_u836qu0,yes,Outdoor,Lattice,54,2,2,2,1,Huawei,1,290,1,8X-pol,1,290,1,8X-pol,1,290,1,8X-pol,1,290,1,8X-pol,25,MCI,AC,3,1,0,Fiber,54
+MTR_e703lo1,no,Indoor,Lattice,42,1,0,1,0,Huawei,1,263,1,5X-Pol,1,263,1,5X-Pol,1,263,1,5X-Pol,1,263,1,5X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,75
+MTR_n734hq0,yes,Outdoor,NB Lattice Tower,36,1,0,1,0,Huawei,1,263,0,8X-pol,1,263,0,8X-pol,1,263,0,8X-pol,1,263,0,8X-pol,25,MCI,AC,3,1,0,Fiber,76
+MTR_v463gn0,no,Outdoor,Lattice,66,2,2,2,0,Kathrein,1,156,2,5X-Pol,1,156,2,5X-Pol,1,156,2,5X-Pol,1,156,2,5X-Pol,25,MCI,AC,3,1,1,MW,99
+MTR_p105we1,yes,Outdoor,Lattice,54,3,0,1,2,Takta,2,7,0.2,12X-pol,2,7,0.2,12X-pol,2,7,0.2,12X-pol,2,7,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber-TCX,58
+MTR_m403xx1,yes,Outdoor,Lattice,36,2,2,2,0,Antenkar,2,123,1,12X-pol,2,123,1,12X-pol,2,123,1,12X-pol,2,123,1,12X-pol,0,MCI,DC,0,0,0,MW,98
+MTR_c904dy0,no,Outdoor,NB Lattice Tower,36,1,0,1,0,Kathrein,2,335,0,8X-pol,2,335,0,8X-pol,2,335,0,8X-pol,2,335,0,8X-pol,25,MCI,AC,3,1,0,Fiber,98
+MTR_t409iv1,no,Indoor,Lattice,48,3,0,1,2,Huawei,2,357,0,8X-pol,2,357,0,8X-pol,2,357,0,8X-pol,2,357,0,8X-pol,25,MCI,AC,3,1,0,Fiber-TCX,76
+MTR_k201pg0,no,Outdoor,NB Lattice Tower,60,3,3,3,2,Antenkar,2,152,2,5X-Pol,2,152,2,5X-Pol,2,152,2,5X-Pol,2,152,2,5X-Pol,32,MCI,AC,3,1,2,MW,99
+MTR_r130fi0,no,Outdoor,Lattice,54,1,3,2,1,Kathrein,1,340,0.2,2X-Pol,1,340,0.2,2X-Pol,1,340,0.2,2X-Pol,1,340,0.2,2X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,74
+MTR_x80xl1,yes,Outdoor,Monopole,30,1,1,1,1,Huawei,2,320,1,8X-pol,2,320,1,8X-pol,2,320,1,8X-pol,2,320,1,8X-pol,25,MCI,AC,3,1,0,Fiber,93
+MTR_n73cv0,yes,Indoor,Lattice,36,2,2,2,2,Kathrein,1,325,0.2,8X-pol,1,325,0.2,8X-pol,1,325,0.2,8X-pol,1,325,0.2,8X-pol,40,TM,DC,0,40,0,Fiber-TCX,77
+MTR_x385hh1,no,Indoor,NB Lattice Tower,36,1,1,1,1,Huawei,2,200,0.2,8X-pol,2,200,0.2,8X-pol,2,200,0.2,8X-pol,2,200,0.2,8X-pol,32,MCI,AC,3,1,2,Fiber,73
+MTR_b617gk0,yes,Outdoor,Lattice,36,3,3,2,1,Kathrein,1,300,0,2X-Pol,1,300,0,2X-Pol,1,300,0,2X-Pol,1,300,0,2X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,58
+MTR_f567qz1,no,Indoor,Lattice,48,2,2,1,3,Huawei,2,358,1,12X-pol,2,358,1,12X-pol,2,358,1,12X-pol,2,358,1,12X-pol,50,TM,AC,3,50,0,Fiber-TCX,87
+MTR_v198su1,yes,Outdoor,NB Lattice Tower,36,1,0,1,0,Huawei,1,123,2,8X-pol,1,123,2,8X-pol,1,123,2,8X-pol,1,123,2,8X-pol,32,MCI,AC,3,1,1,MW,88
+MTR_d961br1,no,Outdoor,NB Lattice Tower,36,2,2,1,3,Antenkar,2,340,1,12X-pol,2,340,1,12X-pol,2,340,1,12X-pol,2,340,1,12X-pol,25,MCI,AC,3,1,0,Fiber,66
+MTR_g668rq1,yes,Indoor,Lattice,36,3,3,2,1,Takta,2,123,0.2,2X-Pol,2,123,0.2,2X-Pol,2,123,0.2,2X-Pol,2,123,0.2,2X-Pol,10,TOM,AC,0,32,1,Fiber-TCX,92
+MTR_i340gy0,no,Outdoor,Lattice,42,1,1,2,2,Huawei,2,258,2,2X-Pol,2,258,2,2X-Pol,2,258,2,2X-Pol,2,258,2,2X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,68
+MTR_t707vz0,yes,Indoor,Lattice,54,2,2,2,2,Huawei,1,357,1,12X-pol,1,357,1,12X-pol,1,357,1,12X-pol,1,357,1,12X-pol,25,TM,DC,3,125,0,Fiber-TCX,88
+MTR_d203xr1,yes,Outdoor,Monopole,24,1,1,2,2,Huawei,1,5,1,8X-pol,1,5,1,8X-pol,1,5,1,8X-pol,1,5,1,8X-pol,25,MCI,AC,3,1,0,Fiber,55
+MTR_n549eq0,yes,Outdoor,Monopole,24,2,3,2,1,Huawei,1,350,0.2,4X-Pol,1,350,0.2,4X-Pol,1,350,0.2,4X-Pol,1,350,0.2,4X-Pol,50,MCI,AC,3,1,0,Fiber,54
+MTR_j918yy1,yes,Outdoor,Lattice,48,3,3,4,2,Kathrein,1,7,1,8X-pol,1,7,1,8X-pol,1,7,1,8X-pol,1,7,1,8X-pol,25,MCI,AC,3,1,0,Fiber-TCX,75
+MTR_o841ph0,no,Outdoor,Monopole,18,2,2,2,2,Kathrein,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,25,MCI,AC,3,1,0,Fiber,88
+MTR_l595pu1,no,Outdoor,Lattice,66,1,3,2,1,Kathrein,2,123,1,5X-Pol,2,123,1,5X-Pol,2,123,1,5X-Pol,2,123,1,5X-Pol,32,MCI,AC,3,1,1,MW,96
+MTR_p116uh1,yes,Outdoor,Lattice,54,2,3,1,1,Kathrein,2,111,0,12X-pol,2,111,0,12X-pol,2,111,0,12X-pol,2,111,0,12X-pol,25,MCI,AC,3,1,1,Fiber-TCX,65
+MTR_z56as1,yes,Outdoor,Lattice,54,1,0,1,0,Huawei,1,345,0,12X-pol,1,345,0,12X-pol,1,345,0,12X-pol,1,345,0,12X-pol,25,MCI,AC,3,1,2,MW,56
+MTR_t208tc1,yes,Indoor,Monopole,24,1,0,1,0,Takta,2,355,0,5X-Pol,2,355,0,5X-Pol,2,355,0,5X-Pol,2,355,0,5X-Pol,25,TM,DC,3,32,1,Fiber-TCX,64
+MTR_c333yk0,no,Outdoor,NB Lattice Tower,42,1,0,1,0,Antenkar,1,155,0,8X-pol,1,155,0,8X-pol,1,155,0,8X-pol,1,155,0,8X-pol,25,MCI,AC,3,1,0,Fiber,88
+MTR_a567kp1,no,Outdoor,Lattice,54,3,2,1,0,Huawei,2,290,0.2,8X-pol,2,290,0.2,8X-pol,2,290,0.2,8X-pol,2,290,0.2,8X-pol,25,MCI,AC,3,1,1,MW,74
+MTR_c21uz1,no,Indoor,Lattice,36,1,3,2,1,Huawei,2,200,2,8X-pol,2,200,2,8X-pol,2,200,2,8X-pol,2,200,2,8X-pol,20,TM,AC,0,32,0,Fiber-TCX,73
+MTR_r816nn1,yes,Outdoor,Pylon,12,1,3,2,1,Kathrein,2,350,1,12X-pol,2,350,1,12X-pol,2,350,1,12X-pol,2,350,1,12X-pol,25,MCI,DC,1,25,0,Fiber,77
+MTR_i240kz1,yes,Outdoor,Lattice,54,3,3,3,2,Takta,2,325,0.2,8X-pol,2,325,0.2,8X-pol,2,325,0.2,8X-pol,2,325,0.2,8X-pol,25,MCI,AC,3,1,1,Fiber-TCX,49
+MTR_z297ej1,no,Indoor,NB Lattice Tower,42,1,1,2,2,Antenkar,2,357,2,2X-Pol,2,357,2,2X-Pol,2,357,2,2X-Pol,2,357,2,2X-Pol,0,TM,AC,0,32,1,MW,55
+MTR_m191dw0,yes,Outdoor,NB Lattice Tower,36,2,3,1,1,Huawei,1,305,0,8X-pol,1,305,0,8X-pol,1,305,0,8X-pol,1,305,0,8X-pol,25,MCI,AC,3,1,1,MW,66
+MTR_c235nt0,yes,Outdoor,Monopole,24,3,3,4,2,Kathrein,2,152,2,8X-pol,2,152,2,8X-pol,2,152,2,8X-pol,2,152,2,8X-pol,25,MCI,AC,3,1,0,Fiber,55
+MTR_c456oh1,yes,Indoor,Lattice,30,1,0,1,0,Antenkar,2,330,2,8X-pol,2,330,2,8X-pol,2,330,2,8X-pol,2,330,2,8X-pol,10,TM,AC,0,32,1,MW,93
+MTR_g627rl1,no,Indoor,Lattice,19,1,1,2,2,Huawei,1,240,0.2,2X-Pol,1,240,0.2,2X-Pol,1,240,0.2,2X-Pol,1,240,0.2,2X-Pol,100,TM,DC,0,125,0,Fiber-TCX,64
+MTR_x636pu0,no,Indoor,Lattice,34,3,3,4,2,Huawei,1,355,0,8X-pol,1,355,0,8X-pol,1,355,0,8X-pol,1,355,0,8X-pol,133,TM,DC,3,125,3,BW-ETH,94
+MTR_h493ie1,no,Indoor,Lattice,42,1,3,2,0,Huawei,1,359,0,8X-pol,1,359,0,8X-pol,1,359,0,8X-pol,1,359,0,8X-pol,288,TM,AC,3,50,3,Fiber,77
+MTR_k902fp0,yes,Outdoor,NB Lattice Tower,48,2,3,2,1,Huawei,1,258,0,12X-pol,1,258,0,12X-pol,1,258,0,12X-pol,1,258,0,12X-pol,25,MCI,AC,3,1,0,Fiber,98
+MTR_y102la1,yes,Outdoor,Lattice,54,1,1,2,2,Kathrein,2,285,2,5X-Pol,2,285,2,5X-Pol,2,285,2,5X-Pol,2,285,2,5X-Pol,25,MCI,AC,3,1,1,MW,91
+MTR_g679he1,yes,Outdoor,NB Lattice Tower,36,3,3,4,2,Antenkar,2,330,0.2,12X-pol,2,330,0.2,12X-pol,2,330,0.2,12X-pol,2,330,0.2,12X-pol,25,MCI,AC,3,1,1,MW,88
+MTR_e30eo1,no,Outdoor,Lattice,36,3,3,3,0,Takta,2,358,0,5X-Pol,2,358,0,5X-Pol,2,358,0,5X-Pol,2,358,0,5X-Pol,10,TOM,AC,0,32,0,Fiber-TCX,55
+MTR_w122cd0,no,Indoor,Lattice,54,2,2,2,1,MI/MI,1,332,0.2,4X-Pol,1,332,0.2,4X-Pol,1,332,0.2,4X-Pol,1,332,0.2,4X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,52
+MTR_i889zf1,yes,Outdoor,NB Lattice Tower,36,3,3,2,1,Huawei,2,151,0.2,4X-Pol,2,151,0.2,4X-Pol,2,151,0.2,4X-Pol,2,151,0.2,4X-Pol,50,MCI,AC,3,1,1,Fiber,98
+MTR_p911si0,no,Indoor,Lattice,24,1,1,1,1,Huawei,1,263,0.2,2X-Pol,1,263,0.2,2X-Pol,1,263,0.2,2X-Pol,1,263,0.2,2X-Pol,25,TM,DC,3,125,1,MW,85
+MTR_w686gv1,yes,Outdoor,NB Lattice Tower,30,1,3,2,1,Huawei,1,335,2,12X-pol,1,335,2,12X-pol,1,335,2,12X-pol,1,335,2,12X-pol,25,MCI,AC,3,1,1,MW,93
+MTR_n360jo1,yes,Outdoor,NB Lattice Tower,54,3,3,4,2,Kathrein,2,335,0,5X-Pol,2,335,0,5X-Pol,2,335,0,5X-Pol,2,335,0,5X-Pol,25,MCI,AC,3,1,2,MW,96
+MTR_h209mm1,no,Indoor,NB Lattice Tower,36,1,3,2,1,Huawei,1,7,1,5X-Pol,1,7,1,5X-Pol,1,7,1,5X-Pol,1,7,1,5X-Pol,50,TOM,AC,3,40,1,BW-ETH,71
+MTR_u565lg1,no,Indoor,Lattice,54,1,1,1,1,Huawei,1,263,0.2,4X-Pol,1,263,0.2,4X-Pol,1,263,0.2,4X-Pol,1,263,0.2,4X-Pol,25,TM,AC,1,32,1,Fiber-TCX,75
+MTR_e489ls0,no,Outdoor,Lattice,48,2,2,2,1,Huawei,2,144,0,8X-pol,2,144,0,8X-pol,2,144,0,8X-pol,2,144,0,8X-pol,25,MCI,AC,3,1,1,MW,73
+MTR_k797te1,yes,Indoor,Lattice,42,2,2,2,0,Kathrein,1,357,2,2X-Pol,1,357,2,2X-Pol,1,357,2,2X-Pol,1,357,2,2X-Pol,25,MCI,AC,1,1,2,MW,49
+MTR_e910ua1,yes,Outdoor,NB Lattice Tower,42,1,3,2,1,Huawei,1,111,2,8X-pol,1,111,2,8X-pol,1,111,2,8X-pol,1,111,2,8X-pol,25,MCI,AC,3,1,1,MW,71
+MTR_b278lo0,yes,Outdoor,Monopole,24,1,3,2,1,Huawei,1,265,1,4X-Pol,1,265,1,4X-Pol,1,265,1,4X-Pol,1,265,1,4X-Pol,25,MCI,AC,3,1,0,Fiber,95
+MTR_d844ki0,yes,Outdoor,NB Lattice Tower,36,1,3,2,0,Antenkar,2,340,0,12X-pol,2,340,0,12X-pol,2,340,0,12X-pol,2,340,0,12X-pol,25,MCI,AC,3,1,1,MW,58
+MTR_v138jt1,yes,Outdoor,Lattice,24,1,1,2,2,Antenkar,2,288,1,12X-pol,2,288,1,12X-pol,2,288,1,12X-pol,2,288,1,12X-pol,32,MCI,AC,3,1,1,Fiber-TCX,86
+MTR_z329ae0,no,Outdoor,NB Lattice Tower,36,2,3,2,1,Antenkar,2,200,1,12X-pol,2,200,1,12X-pol,2,200,1,12X-pol,2,200,1,12X-pol,25,MCI,AC,3,1,1,MW,74
+MTR_g814vk1,no,Indoor,Lattice,36,2,2,2,1,No Label,1,330,0,5X-Pol,1,330,0,5X-Pol,1,330,0,5X-Pol,1,330,0,5X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,87
+MTR_u770wy1,no,Outdoor,Lattice,36,2,3,2,1,Huawei,1,315,0,8X-pol,1,315,0,8X-pol,1,315,0,8X-pol,1,315,0,8X-pol,25,MCI,AC,3,1,1,MW,73
+MTR_l250tk0,yes,Indoor,Lattice,42,3,0,1,2,Antenkar,1,123,2,8X-pol,1,123,2,8X-pol,1,123,2,8X-pol,1,123,2,8X-pol,50,MCI,AC,3,1,0,Fiber-TCX,92
+MTR_f83fq1,no,Outdoor,NB Lattice Tower,42,1,1,2,2,Antenkar,1,144,0,5X-Pol,1,144,0,5X-Pol,1,144,0,5X-Pol,1,144,0,5X-Pol,25,MCI,AC,3,1,1,MW,88
+MTR_c215kw1,yes,Outdoor,Monopole,36,2,2,2,2,Huawei,2,150,2,2X-Pol,2,150,2,2X-Pol,2,150,2,2X-Pol,2,150,2,2X-Pol,25,MCI,AC,3,1,1,Fiber,56
+MTR_g890ue0,yes,Outdoor,ICB,30,2,3,2,1,Huawei,1,355,0,12X-pol,1,355,0,12X-pol,1,355,0,12X-pol,1,355,0,12X-pol,25,MCI,AC,3,1,0,Fiber,64
+MTR_s56qd0,yes,Indoor,Monopole,24,2,2,1,3,Kathrein,1,310,1,2X-Pol,1,310,1,2X-Pol,1,310,1,2X-Pol,1,310,1,2X-Pol,25,TM,DC,3,40,0,Fiber-TCX,66
+MTR_s478kl1,yes,Outdoor,Lattice,24,2,3,2,1,Antenkar,2,330,1,12X-pol,2,330,1,12X-pol,2,330,1,12X-pol,2,330,1,12X-pol,32,MCI,AC,3,1,1,MW,71
+MTR_f806qg1,no,Outdoor,Lattice,54,3,3,2,1,Huawei,1,263,2,8X-pol,1,263,2,8X-pol,1,263,2,8X-pol,1,263,2,8X-pol,25,MCI,AC,3,1,1,MW,66
+MTR_f157lc1,no,Outdoor,Guyed Mast,18,2,2,2,2,Huawei,1,290,0,2X-Pol,1,290,0,2X-Pol,1,290,0,2X-Pol,1,290,0,2X-Pol,25,MCI,AC,3,1,1,MW,91
+MTR_d186fy0,no,Indoor,Lattice,36,2,2,1,3,Huawei,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,25,MCI,AC,3,1,0,BW-ETH,75
+MTR_e95bv0,no,Indoor,NB Lattice Tower,48,3,2,1,0,Huawei,2,115,1,2X-Pol,2,115,1,2X-Pol,2,115,1,2X-Pol,2,115,1,2X-Pol,0,TOM,AC,1,32,0,Fiber,88
+MTR_a788pi1,yes,Outdoor,NB Lattice Tower,42,1,3,2,0,Huawei,1,151,1,8X-pol,1,151,1,8X-pol,1,151,1,8X-pol,1,151,1,8X-pol,25,MCI,AC,3,1,1,MW,66
+MTR_u871vb1,no,Outdoor,Monopole,30,2,3,1,1,Huawei,1,320,1,12X-pol,1,320,1,12X-pol,1,320,1,12X-pol,1,320,1,12X-pol,25,MCI,AC,3,1,0,Fiber,100
+MTR_i113cw0,yes,Indoor,Lattice,36,1,1,1,1,Kathrein,2,330,2,5X-Pol,2,330,2,5X-Pol,2,330,2,5X-Pol,2,330,2,5X-Pol,25,MCI,AC,3,1,1,MW,92
+MTR_b928ok1,yes,Outdoor,NB Lattice Tower,48,3,3,4,2,Kathrein,2,152,0,2X-Pol,2,152,0,2X-Pol,2,152,0,2X-Pol,2,152,0,2X-Pol,32,MCI,AC,3,1,1,v,59
+MTR_m375mm0,yes,Indoor,ICB,54,2,2,2,0,Huawei,1,340,0.2,8X-pol,1,340,0.2,8X-pol,1,340,0.2,8X-pol,1,340,0.2,8X-pol,25,TM,DC,3,40,0,Fiber-TCX,71
+MTR_f279kd0,yes,Indoor,ICB,24,3,3,4,2,Huawei,2,151,0,12X-pol,2,151,0,12X-pol,2,151,0,12X-pol,2,151,0,12X-pol,25,MCI,AC,3,1,2,Fiber-TCX,73
+MTR_r592hd0,no,Indoor,ICB,24,3,0,1,2,Huawei,1,150,0,8X-pol,1,150,0,8X-pol,1,150,0,8X-pol,1,150,0,8X-pol,25,TM,AC,3,50,2,BW-ETH,68
+MTR_m374hy0,yes,Outdoor,NB Lattice Tower,42,2,2,2,1,Huawei,2,355,0,8X-pol,2,355,0,8X-pol,2,355,0,8X-pol,2,355,0,8X-pol,25,MCI,AC,3,1,0,Fiber,65
+MTR_p756eu0,yes,Outdoor,NB Lattice Tower,36,3,3,3,2,Huawei,2,7,2,2X-Pol,2,7,2,2X-Pol,2,7,2,2X-Pol,2,7,2,2X-Pol,25,MCI,AC,3,1,2,Fiber,98
+MTR_j29xq1,yes,Indoor,Lattice,48,3,0,1,2,Huawei,2,265,0.2,5X-Pol,2,265,0.2,5X-Pol,2,265,0.2,5X-Pol,2,265,0.2,5X-Pol,50,TM,DC,3,125,0,Fiber-TCX,87
+MTR_u46zv1,yes,Outdoor,Lattice,42,2,2,2,2,Huawei,2,340,1,4X-Pol,2,340,1,4X-Pol,2,340,1,4X-Pol,2,340,1,4X-Pol,25,MCI,AC,3,1,1,MW,87
+MTR_c706oo1,yes,Outdoor,Pole/wall mount,15,3,3,3,0,Kathrein,1,144,1,5X-Pol,1,144,1,5X-Pol,1,144,1,5X-Pol,1,144,1,5X-Pol,10,TOM,AC,0,32,1,MW,98
+MTR_a217xd0,no,Indoor,Lattice,30,3,3,2,1,Huawei,1,345,1,8X-pol,1,345,1,8X-pol,1,345,1,8X-pol,1,345,1,8X-pol,300,TM,DC,3,125,3,Fiber-TCX,66
+MTR_d767lk0,no,Indoor,Monopole,24,2,2,2,2,Kathrein,2,152,0,8X-pol,2,152,0,8X-pol,2,152,0,8X-pol,2,152,0,8X-pol,25,MCI,AC,3,1,1,Fiber-TCX,96
+MTR_z863sx1,no,Indoor,NB Lattice Tower,36,3,0,1,2,Huawei,1,263,1,8X-pol,1,263,1,8X-pol,1,263,1,8X-pol,1,263,1,8X-pol,80,TM,DC,0,100,0,Fiber-TCX,98
+MTR_c604nb0,no,Indoor,Lattice,42,2,2,2,0,Kathrein,2,256,0,4X-Pol,2,256,0,4X-Pol,2,256,0,4X-Pol,2,256,0,4X-Pol,32,TM,DC,0,32,2,MW,64
+MTR_p387nw1,no,Outdoor,ICB,48,2,2,2,2,Huawei,1,114,0,2X-Pol,1,114,0,2X-Pol,1,114,0,2X-Pol,1,114,0,2X-Pol,25,MCI,AC,3,1,1,MW,74
+MTR_x976nz0,yes,Indoor,Lattice,42,2,3,2,1,Huawei,2,288,0.2,8X-pol,2,288,0.2,8X-pol,2,288,0.2,8X-pol,2,288,0.2,8X-pol,25,TM,DC,3,80,1,Fiber-TCX,86
+MTR_g769ru0,no,Outdoor,Lattice,36,3,3,2,1,Antenkar,2,330,1,8X-pol,2,330,1,8X-pol,2,330,1,8X-pol,2,330,1,8X-pol,32,MCI,AC,3,1,0,Fiber-TCX,87
+MTR_d97xw0,yes,Outdoor,ICB,42,3,0,1,2,Antenkar,2,185,1,8X-pol,2,185,1,8X-pol,2,185,1,8X-pol,2,185,1,8X-pol,25,MCI,AC,3,1,1,MW,55
+MTR_p957hh1,no,Indoor,Lattice,36,2,3,2,1,Takta,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,75
+MTR_t366jz1,no,Indoor,Lattice,36,3,3,2,1,Huawei,1,300,2,2X-Pol,1,300,2,2X-Pol,1,300,2,2X-Pol,1,300,2,2X-Pol,75,TM,AC,3,50,0,BW-ETH,64
+MTR_r136qa0,no,Outdoor,ICB,54,3,3,3,2,Kathrein,2,330,1,8X-pol,2,330,1,8X-pol,2,330,1,8X-pol,2,330,1,8X-pol,25,MCI,AC,3,1,0,Fiber,52
+MTR_r333vz1,yes,Outdoor,Lattice,54,2,2,2,1,Kathrein,1,152,1,2X-Pol,1,152,1,2X-Pol,1,152,1,2X-Pol,1,152,1,2X-Pol,10,TOM,DC,0,,1,MW,55
+MTR_w443dm0,yes,Indoor,Lattice,36,1,1,2,2,Takta,1,330,1,2X-Pol,1,330,1,2X-Pol,1,330,1,2X-Pol,1,330,1,2X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,72
+MTR_p407aa1,no,Outdoor,Lattice,42,1,3,2,0,Kathrein,2,300,0.2,12X-pol,2,300,0.2,12X-pol,2,300,0.2,12X-pol,2,300,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber-TCX,98
+MTR_v845zn1,yes,Indoor,NB Lattice Tower,60,3,2,1,0,Huawei,2,200,0,5X-Pol,2,200,0,5X-Pol,2,200,0,5X-Pol,2,200,0,5X-Pol,16,TM,AC,0,32,0,Fiber-TCX,97
+MTR_y117ft1,yes,Indoor,Lattice,30,3,3,3,0,Kathrein,2,285,0,12X-pol,2,285,0,12X-pol,2,285,0,12X-pol,2,285,0,12X-pol,25,MCI,AC,1,1,2,MW,49
+MTR_q497et1,no,Indoor,Monopole,24,1,0,1,0,Huawei,2,260,0,5X-Pol,2,260,0,5X-Pol,2,260,0,5X-Pol,2,260,0,5X-Pol,125,TM,DC,0,125,0,Fiber-TCX,100
+MTR_w788kk0,no,Outdoor,Lattice,54,1,0,1,0,Takta,1,290,1,8X-pol,1,290,1,8X-pol,1,290,1,8X-pol,1,290,1,8X-pol,10,TOM,AC,0,32,1,MW,68
+MTR_w41xy1,yes,Indoor,Lattice,60,3,0,1,2,Huawei,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,32,MCI,AC,3,1,1,MW,86
+MTR_q865fd0,no,Outdoor,Lattice,23,1,0,1,0,Kathrein,2,350,1,2X-Pol,2,350,1,2X-Pol,2,350,1,2X-Pol,2,350,1,2X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,88
+MTR_q318sg0,no,Outdoor,NB Lattice Tower,48,1,0,1,0,Kathrein,1,158,2,4X-Pol,1,158,2,4X-Pol,1,158,2,4X-Pol,1,158,2,4X-Pol,25,MCI,AC,3,1,1,MW,77
+MTR_g954zn0,no,Outdoor,Monopole,24,3,3,2,1,Huawei,1,355,2,8X-pol,1,355,2,8X-pol,1,355,2,8X-pol,1,355,2,8X-pol,25,MCI,AC,3,1,0,Fiber,76
+MTR_e456ms0,yes,Indoor,Lattice,42,2,3,1,1,Huawei,2,300,0,8X-pol,2,300,0,8X-pol,2,300,0,8X-pol,2,300,0,8X-pol,125,TM,DC,0,125,3,Fiber-TCX,55
+MTR_p607yj0,yes,Outdoor,NB Lattice Tower,42,2,2,2,1,Antenkar,2,335,1,2X-Pol,2,335,1,2X-Pol,2,335,1,2X-Pol,2,335,1,2X-Pol,25,MCI,AC,3,1,1,MW,72
+MTR_y790hg1,no,Outdoor,NB Lattice Tower,42,1,1,2,2,Antenkar,1,315,2,12X-pol,1,315,2,12X-pol,1,315,2,12X-pol,1,315,2,12X-pol,25,MCI,AC,3,1,1,MW,71
+MTR_l79od0,no,Outdoor,Lattice,42,2,2,1,3,Kathrein,1,200,2,12X-pol,1,200,2,12X-pol,1,200,2,12X-pol,1,200,2,12X-pol,25,MCI,AC,3,1,1,MW,77
+MTR_a66gt0,yes,Indoor,Lattice,54,2,3,2,1,Huawei,2,325,0,5X-Pol,2,325,0,5X-Pol,2,325,0,5X-Pol,2,325,0,5X-Pol,25,TM,AC,3,1,2,BW-ETH,97
+MTR_b664nx1,no,Outdoor,NB Lattice Tower,42,2,3,2,1,Antenkar,1,151,2,8X-pol,1,151,2,8X-pol,1,151,2,8X-pol,1,151,2,8X-pol,25,MCI,AC,3,1,0,Fiber-TCX,68
+MTR_l774ap1,yes,Indoor,Lattice,18,2,3,2,1,Takta,2,345,0,8X-pol,2,345,0,8X-pol,2,345,0,8X-pol,2,345,0,8X-pol,16,TOM,DC,0,16,0,Fiber-TCX,95
+MTR_v104oa1,yes,Outdoor,Lattice,42,3,2,1,0,Kathrein,2,335,0,8X-pol,2,335,0,8X-pol,2,335,0,8X-pol,2,335,0,8X-pol,25,MCI,AC,3,1,1,MW,55
+MTR_q299jh0,no,Indoor,Lattice,24,2,3,1,1,Kathrein,1,114,0.2,5X-Pol,1,114,0.2,5X-Pol,1,114,0.2,5X-Pol,1,114,0.2,5X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,94
+MTR_d406gx0,yes,Outdoor,NB Lattice Tower,36,3,3,3,0,Kathrein,2,310,0.2,12X-pol,2,310,0.2,12X-pol,2,310,0.2,12X-pol,2,310,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber,71
+MTR_p548kb1,no,Outdoor,Lattice,54,1,3,2,0,Kathrein,2,355,0,5X-Pol,2,355,0,5X-Pol,2,355,0,5X-Pol,2,355,0,5X-Pol,10,TOM,DC,0,,1,MW,58
+MTR_t246uk0,yes,Outdoor,Lattice,42,1,1,1,1,Antenkar,2,152,0,2X-Pol,2,152,0,2X-Pol,2,152,0,2X-Pol,2,152,0,2X-Pol,25,MCI,AC,3,1,1,MW,73
+MTR_f437cv1,no,Outdoor,Lattice,54,2,2,1,3,No Label,2,265,0.2,8X-pol,2,265,0.2,8X-pol,2,265,0.2,8X-pol,2,265,0.2,8X-pol,25,MCI,AC,3,1,1,MW,58
+MTR_g691pc1,yes,Indoor,Self Support,85,1,1,1,1,Kathrein,2,325,2,8X-pol,2,325,2,8X-pol,2,325,2,8X-pol,2,325,2,8X-pol,40,ZM,DC,0,40,2,MW,97
+MTR_a901rz0,yes,Outdoor,Guyed Mast,18,3,3,4,2,Antenkar,1,315,2,8X-pol,1,315,2,8X-pol,1,315,2,8X-pol,1,315,2,8X-pol,25,MCI,AC,3,1,1,MW,76
+MTR_l559dz1,yes,Indoor,Lattice,54,3,3,3,0,Huawei,2,332,0.2,2X-Pol,2,332,0.2,2X-Pol,2,332,0.2,2X-Pol,2,332,0.2,2X-Pol,80,TM,AC,0,32,0,Fiber-TCX,72
+MTR_v128rr1,yes,Indoor,NB Lattice Tower,48,1,3,2,1,Kathrein,1,355,0,12X-pol,1,355,0,12X-pol,1,355,0,12X-pol,1,355,0,12X-pol,25,MCI,AC,3,1,1,MW,72
+MTR_w493ya0,yes,Indoor,Lattice,42,2,2,2,1,Kathrein,1,325,0.2,5X-Pol,1,325,0.2,5X-Pol,1,325,0.2,5X-Pol,1,325,0.2,5X-Pol,32,ZM,DC,0,32,4,MW-Zirsakht,98
+MTR_t6yw0,no,Indoor,Lattice,42,2,3,1,1,Takta,2,123,2,5X-Pol,2,123,2,5X-Pol,2,123,2,5X-Pol,2,123,2,5X-Pol,25,MCI,AC,3,1,1,MW,58
+MTR_e919en1,yes,Indoor,Lattice,54,2,3,1,1,Huawei,2,200,0,2X-Pol,2,200,0,2X-Pol,2,200,0,2X-Pol,2,200,0,2X-Pol,50,TM,AC,3,50,0,Fiber-TCX,85
+MTR_x96qq1,no,Indoor,Lattice,54,3,3,3,0,Huawei,2,330,0.2,2X-Pol,2,330,0.2,2X-Pol,2,330,0.2,2X-Pol,2,330,0.2,2X-Pol,100,TM,DC,0,125,0,Fiber-TCX,71
+MTR_t694wq1,no,Indoor,Guyed Mast,24,2,2,2,2,Kathrein,1,325,2,8X-pol,1,325,2,8X-pol,1,325,2,8X-pol,1,325,2,8X-pol,25,MCI,AC,3,1,2,MW-TCX,76
+MTR_p853uo0,yes,Outdoor,Monopole,18,3,3,4,2,Huawei,2,240,0,8X-pol,2,240,0,8X-pol,2,240,0,8X-pol,2,240,0,8X-pol,25,MCI,AC,3,1,0,Fiber,77
+MTR_u824jt0,yes,Outdoor,Lattice,42,1,1,1,1,Kathrein,1,315,0.2,4X-Pol,1,315,0.2,4X-Pol,1,315,0.2,4X-Pol,1,315,0.2,4X-Pol,25,MCI,AC,3,1,3,MW,88
+MTR_g538fv0,yes,Indoor,Lattice,48,2,2,2,2,Huawei,1,300,0.2,8X-pol,1,300,0.2,8X-pol,1,300,0.2,8X-pol,1,300,0.2,8X-pol,25,MIR,AC,3,1,0,Fiber,72
+MTR_d665uh1,yes,Indoor,Monopole,36,3,2,1,0,Kathrein,2,185,1,4X-Pol,2,185,1,4X-Pol,2,185,1,4X-Pol,2,185,1,4X-Pol,63,TM,DC,0,80,0,Fiber-TCX,88
+MTR_v316yb1,yes,Outdoor,Monopole,24,2,2,1,3,Huawei,1,330,0.2,5X-Pol,1,330,0.2,5X-Pol,1,330,0.2,5X-Pol,1,330,0.2,5X-Pol,25,MCI,AC,3,1,0,Fiber,55
+MTR_g915bx0,no,Indoor,Lattice,30,3,3,3,2,Huawei,1,350,2,2X-Pol,1,350,2,2X-Pol,1,350,2,2X-Pol,1,350,2,2X-Pol,25,TM,DC,3,125,0,Fiber-TCX,71
+MTR_a955qm0,yes,Outdoor,Monopole,30,2,2,2,2,Huawei,1,345,1,5X-Pol,1,345,1,5X-Pol,1,345,1,5X-Pol,1,345,1,5X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,74
+MTR_t241mr1,no,Outdoor,Pylon,12,3,3,3,0,Kathrein,1,200,0,8X-pol,1,200,0,8X-pol,1,200,0,8X-pol,1,200,0,8X-pol,25,MCI,DC,1,25,0,Fiber,88
+MTR_s410ne0,no,Indoor,Lattice,36,3,3,3,2,Huawei,2,335,2,5X-Pol,2,335,2,5X-Pol,2,335,2,5X-Pol,2,335,2,5X-Pol,25,MCI,AC,3,1,1,MW,88
+MTR_m780uw0,no,Indoor,Guyed Mast,18,3,3,4,2,Takta,2,150,0,4X-Pol,2,150,0,4X-Pol,2,150,0,4X-Pol,2,150,0,4X-Pol,50,MCI,AC,3,1,5,MW-TCX,71
+MTR_h967xx0,yes,Outdoor,Lattice,54,3,3,4,2,Huawei,1,123,2,5X-Pol,1,123,2,5X-Pol,1,123,2,5X-Pol,1,123,2,5X-Pol,25,MI,AC,3,1,1,MW,95
+MTR_k214vp0,no,Outdoor,ICB,12,3,3,4,2,Takta,2,350,0,12X-pol,2,350,0,12X-pol,2,350,0,12X-pol,2,350,0,12X-pol,25,MCI,DC,1,25,0,Fiber,66
+MTR_s672hh0,no,Indoor,Lattice,54,1,3,2,1,Takta,2,330,2,5X-Pol,2,330,2,5X-Pol,2,330,2,5X-Pol,2,330,2,5X-Pol,25,MCI,AC,3,1,4,Fiber-TCX,54
+MTR_u956ac1,yes,Indoor,Lattice,48,1,1,1,1,Huawei,1,200,1,2X-Pol,1,200,1,2X-Pol,1,200,1,2X-Pol,1,200,1,2X-Pol,10,TOM,AC,0,32,1,MW,93
+MTR_t762hh1,no,Outdoor,ICB,42,3,0,1,2,Kathrein,2,355,1,4X-Pol,2,355,1,4X-Pol,2,355,1,4X-Pol,2,355,1,4X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,66
+MTR_x72jl1,yes,Outdoor,Monopole,24,1,3,2,1,Kathrein,1,350,2,12X-pol,1,350,2,12X-pol,1,350,2,12X-pol,1,350,2,12X-pol,25,MCI,AC,3,1,1,Fiber,49
+MTR_n777wx1,no,Indoor,NB Lattice Tower,48,3,3,3,2,Kathrein,1,225,0.2,8X-pol,1,225,0.2,8X-pol,1,225,0.2,8X-pol,1,225,0.2,8X-pol,63,TM,DC,0,63,0,Fiber-TCX,55
+MTR_a828pl0,no,Outdoor,Lattice,66,1,1,1,1,Kathrein,1,288,1,8X-pol,1,288,1,8X-pol,1,288,1,8X-pol,1,288,1,8X-pol,25,MCI,AC,3,1,2,MW,54
+MTR_n118uf0,no,Outdoor,ICB,24,2,3,1,1,Huawei,1,152,0,8X-pol,1,152,0,8X-pol,1,152,0,8X-pol,1,152,0,8X-pol,25,MCI,AC,3,1,0,Fiber,88
+MTR_y133ss1,no,Outdoor,NB Lattice Tower,42,2,3,2,1,Huawei,1,310,1,5X-Pol,1,310,1,5X-Pol,1,310,1,5X-Pol,1,310,1,5X-Pol,25,MCI,AC,3,1,1,MW,73
+MTR_p882qa0,no,Indoor,Lattice,42,1,0,1,0,Kathrein,1,100,0,12X-pol,1,100,0,12X-pol,1,100,0,12X-pol,1,100,0,12X-pol,16,TM,AC,0,32,1,Fiber-TCX,66
+MTR_z281xs1,yes,Indoor,Monopole,24,3,3,2,1,Huawei,2,335,0,8X-pol,2,335,0,8X-pol,2,335,0,8X-pol,2,335,0,8X-pol,25,MCI,AC,3,1,1,MW,71
+MTR_z693eh1,no,Indoor,Lattice,42,3,3,2,1,Huawei,2,151,0.2,5X-Pol,2,151,0.2,5X-Pol,2,151,0.2,5X-Pol,2,151,0.2,5X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,100
+MTR_l95ej1,yes,Indoor,ICB,42,1,1,1,1,Kathrein,2,111,1,5X-Pol,2,111,1,5X-Pol,2,111,1,5X-Pol,2,111,1,5X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,95
+MTR_e840eq1,no,Indoor,Lattice,36,2,3,1,1,Huawei,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,183,TM,DC,3,125,9,Fiber-TCX,66
+MTR_r857hq1,no,Outdoor,Guyed Mast,18,1,3,2,1,Antenkar,1,325,2,2X-Pol,1,325,2,2X-Pol,1,325,2,2X-Pol,1,325,2,2X-Pol,32,MCI,AC,3,1,1,MW,75
+MTR_r230ve1,no,Indoor,Guyed Mast,30,3,0,1,2,Kathrein,2,350,2,2X-Pol,2,350,2,2X-Pol,2,350,2,2X-Pol,2,350,2,2X-Pol,10,TOM,AC,0,32,0,MW-TCX,91
+MTR_s704xp1,no,Indoor,NB Lattice Tower,48,1,1,1,1,Kathrein,1,310,0,5X-Pol,1,310,0,5X-Pol,1,310,0,5X-Pol,1,310,0,5X-Pol,16,TM,AC,0,32,0,Fiber,94
+MTR_f471qy0,yes,Outdoor,ICB,36,3,3,3,2,Huawei,2,350,1,12X-pol,2,350,1,12X-pol,2,350,1,12X-pol,2,350,1,12X-pol,25,MCI,AC,3,1,0,Fiber,66
+MTR_i364vg0,no,Indoor,Monopole,30,3,0,1,2,Antenkar,2,151,1,8X-pol,2,151,1,8X-pol,2,151,1,8X-pol,2,151,1,8X-pol,25,MCI,AC,3,1,1,Fiber-TCX,99
+MTR_q37vx1,no,Outdoor,NB Lattice Tower,36,1,3,2,1,Kathrein,2,151,0,12X-pol,2,151,0,12X-pol,2,151,0,12X-pol,2,151,0,12X-pol,25,MCI,AC,3,1,1,MW,99
+MTR_e668we1,yes,Outdoor,NB Lattice Tower,42,1,3,2,0,Huawei,2,315,0.2,5X-Pol,2,315,0.2,5X-Pol,2,315,0.2,5X-Pol,2,315,0.2,5X-Pol,25,MCI,AC,3,1,1,MW,86
+MTR_g879dc1,no,Indoor,Lattice,36,3,2,1,0,Huawei,1,265,0.2,8X-pol,1,265,0.2,8X-pol,1,265,0.2,8X-pol,1,265,0.2,8X-pol,25,MCI,AC,3,1,1,Fiber,71
+MTR_k598nj1,yes,Indoor,Lattice,42,3,0,1,2,Takta,2,330,2,2X-Pol,2,330,2,2X-Pol,2,330,2,2X-Pol,2,330,2,2X-Pol,10,MCI,AC,3,1,3,MW,66
+MTR_h750uy1,yes,Indoor,Monopole,18,3,0,1,2,Takta,2,345,0.2,12X-pol,2,345,0.2,12X-pol,2,345,0.2,12X-pol,2,345,0.2,12X-pol,10,TOM,DC,0,32,1,MW,71
+MTR_d197jl1,yes,Outdoor,NB Lattice Tower,42,2,2,1,3,Huawei,1,251,0,2X-Pol,1,251,0,2X-Pol,1,251,0,2X-Pol,1,251,0,2X-Pol,25,MCI,AC,3,1,1,MW,91
+MTR_p715rf1,yes,Outdoor,NB Lattice Tower,36,1,0,1,0,Antenkar,2,320,1,12X-pol,2,320,1,12X-pol,2,320,1,12X-pol,2,320,1,12X-pol,25,MCI,AC,3,1,1,MW,65
+MTR_o146bx0,yes,Outdoor,NB Lattice Tower,36,1,1,1,1,Antenkar,2,185,0.2,12X-pol,2,185,0.2,12X-pol,2,185,0.2,12X-pol,2,185,0.2,12X-pol,25,MCI,AC,3,1,2,Fiber,87
+MTR_m67eh0,no,Outdoor,Lattice,54,2,2,2,2,Kathrein,1,335,0,2X-Pol,1,335,0,2X-Pol,1,335,0,2X-Pol,1,335,0,2X-Pol,25,MCI,AC,1,1,1,MW,66
+MTR_g178gi0,yes,Indoor,NB Lattice Tower,42,3,3,4,2,Huawei,2,350,1,8X-pol,2,350,1,8X-pol,2,350,1,8X-pol,2,350,1,8X-pol,600,TM,DC,3,125,9,Fiber-TCX,72
+MTR_x622nk0,no,Outdoor,Lattice,54,1,0,1,0,Huawei,2,330,2,8X-pol,2,330,2,8X-pol,2,330,2,8X-pol,2,330,2,8X-pol,15,MCI,AC,3,1,1,MW-Fiber-TCX,66
+MTR_t620ct1,no,Outdoor,NB Lattice Tower,36,3,0,1,2,Antenkar,1,315,2,12X-pol,1,315,2,12X-pol,1,315,2,12X-pol,1,315,2,12X-pol,32,MCI,AC,3,1,0,Fiber,64
+MTR_a478xz1,yes,Outdoor,NB Lattice Tower,42,3,3,3,2,Antenkar,2,358,1,5X-Pol,2,358,1,5X-Pol,2,358,1,5X-Pol,2,358,1,5X-Pol,32,MCI,AC,3,1,5,Fiber-TCX,66
+MTR_g243jw1,no,Outdoor,Lattice,42,1,1,2,2,Kathrein,1,7,0.2,12X-pol,1,7,0.2,12X-pol,1,7,0.2,12X-pol,1,7,0.2,12X-pol,25,MCI,AC,3,1,1,Fiber-TCX,55
+MTR_b981ze0,yes,Outdoor,NB Lattice Tower,42,1,3,2,0,Antenkar,2,260,2,5X-Pol,2,260,2,5X-Pol,2,260,2,5X-Pol,2,260,2,5X-Pol,25,MCI,AC,3,1,0,Fiber,77
+MTR_q812ex0,yes,Indoor,Monopole,24,2,2,1,3,Huawei,2,335,1,5X-Pol,2,335,1,5X-Pol,2,335,1,5X-Pol,2,335,1,5X-Pol,150,TM,DC,3,125,0,Fiber,73
+MTR_z317wa1,no,Indoor,Lattice,42,1,0,1,0,Huawei,2,355,0,12X-pol,2,355,0,12X-pol,2,355,0,12X-pol,2,355,0,12X-pol,80,TM,AC,0,32,1,MW,85
+MTR_d227vp0,yes,Indoor,Lattice,42,2,2,1,3,Huawei,1,358,2,5X-Pol,1,358,2,5X-Pol,1,358,2,5X-Pol,1,358,2,5X-Pol,25,MCI,AC,3,1,1,MW,65
+MTR_d819xe1,no,Outdoor,NB Lattice Tower,36,1,3,2,0,Huawei,2,158,2,12X-pol,2,158,2,12X-pol,2,158,2,12X-pol,2,158,2,12X-pol,25,MCI,AC,3,1,0,Fiber-TCX,75
+MTR_g406be0,no,Outdoor,NB Lattice Tower,36,3,0,1,2,Huawei,1,357,1,8X-pol,1,357,1,8X-pol,1,357,1,8X-pol,1,357,1,8X-pol,25,MCI,AC,3,1,0,Fiber,56
+MTR_c144ri0,yes,Outdoor,NB Lattice Tower,36,2,2,2,2,Huawei,1,200,1,8X-pol,1,200,1,8X-pol,1,200,1,8X-pol,1,200,1,8X-pol,25,MCI,AC,3,1,2,Fiber,66
+MTR_g872yl1,yes,Indoor,Lattice,36,3,3,4,2,Kathrein,2,150,1,2X-Pol,2,150,1,2X-Pol,2,150,1,2X-Pol,2,150,1,2X-Pol,50,MCI,AC,3,1,1,MW,97
+MTR_g225kc1,yes,Outdoor,Lattice,54,3,0,1,2,Kathrein,2,350,0.2,5X-Pol,2,350,0.2,5X-Pol,2,350,0.2,5X-Pol,2,350,0.2,5X-Pol,25,MCI,AC,3,1,1,MW,58
+MTR_q852au1,no,Indoor,Lattice,54,1,1,1,1,Huawei,2,285,0,8X-pol,2,285,0,8X-pol,2,285,0,8X-pol,2,285,0,8X-pol,25,MCI,AC,3,1,1,Fiber-TCX,77
+MTR_q548wc1,no,Indoor,NB Lattice Tower,36,1,3,2,0,Antenkar,2,335,0.2,8X-pol,2,335,0.2,8X-pol,2,335,0.2,8X-pol,2,335,0.2,8X-pol,32,MCI,AC,3,1,0,Fiber-TCX,88
+MTR_a814rr1,no,Indoor,Lattice,54,3,3,3,2,Huawei,2,315,0.2,12X-pol,2,315,0.2,12X-pol,2,315,0.2,12X-pol,2,315,0.2,12X-pol,125,TM,DC,0,125,1,MW,88
+MTR_j923ze0,yes,Outdoor,Lattice,42,2,2,1,3,Huawei,1,310,2,4X-Pol,1,310,2,4X-Pol,1,310,2,4X-Pol,1,310,2,4X-Pol,63,TM,DC,0,80,9,Fiber-TCX,95
+MTR_b643jn0,no,Outdoor,Lattice,24,3,3,3,2,Kathrein,2,350,2,12X-pol,2,350,2,12X-pol,2,350,2,12X-pol,2,350,2,12X-pol,32,MCI,AC,3,1,0,Fiber-TCX,89
+MTR_q220it0,no,Indoor,NB Lattice Tower,42,3,3,3,0,Huawei,2,155,0,5X-Pol,2,155,0,5X-Pol,2,155,0,5X-Pol,2,155,0,5X-Pol,25,TM,AC,3,32,9,Fiber-TCX,52
+MTR_n434ml1,no,Outdoor,Lattice,54,3,3,4,2,Takta,1,111,2,8X-pol,1,111,2,8X-pol,1,111,2,8X-pol,1,111,2,8X-pol,10,TOM,AC,0,32,1,MW,98
+MTR_w978ff0,no,Indoor,Lattice,42,1,3,2,1,Huawei,1,350,0.2,2X-Pol,1,350,0.2,2X-Pol,1,350,0.2,2X-Pol,1,350,0.2,2X-Pol,25,MCI,AC,3,1,1,MW,89
+MTR_y805xz0,yes,Outdoor,Pylon,12,2,2,2,0,Huawei,2,265,1,8X-pol,2,265,1,8X-pol,2,265,1,8X-pol,2,265,1,8X-pol,25,MCI,DC,1,25,0,Fiber,89
+MTR_y426xi0,no,Outdoor,Monopole,24,2,2,2,1,Huawei,2,340,0.2,5X-Pol,2,340,0.2,5X-Pol,2,340,0.2,5X-Pol,2,340,0.2,5X-Pol,25,MCI,AC,3,1,2,MW,71
+MTR_e846ki1,no,Outdoor,ICB,42,3,3,3,0,Huawei,1,255,1,2X-Pol,1,255,1,2X-Pol,1,255,1,2X-Pol,1,255,1,2X-Pol,32,MCI,AC,3,1,1,Fiber,89
+MTR_j618fa0,yes,Outdoor,NB Lattice Tower,48,3,3,2,1,Huawei,1,111,2,5X-Pol,1,111,2,5X-Pol,1,111,2,5X-Pol,1,111,2,5X-Pol,25,MCI,AC,3,1,1,MW,65
+MTR_f526jp1,yes,Indoor,Lattice,42,3,3,3,2,Kathrein,1,230,0.2,2X-Pol,1,230,0.2,2X-Pol,1,230,0.2,2X-Pol,1,230,0.2,2X-Pol,32,ZM,DC,0,32,2,MW-TCX,99
+MTR_s446ri0,no,Outdoor,Pylon,5,1,1,1,1,Kathrein,2,285,0,5X-Pol,2,285,0,5X-Pol,2,285,0,5X-Pol,2,285,0,5X-Pol,25,MCI,DC,1,25,9,HDSL,74
+MTR_f793rn1,no,Indoor,Guyed Mast,21,2,2,2,1,Huawei,1,200,2,12X-pol,1,200,2,12X-pol,1,200,2,12X-pol,1,200,2,12X-pol,32,MCI,AC,3,1,1,Fiber-TCX,88
+MTR_v368rx0,yes,Indoor,Monopole,24,2,2,1,3,Kathrein,1,320,1,8X-pol,1,320,1,8X-pol,1,320,1,8X-pol,1,320,1,8X-pol,25,MCI,AC,3,1,0,Fiber,75
+MTR_w464mx1,yes,Outdoor,Pole,9,1,1,1,1,Huawei,2,156,1,8X-pol,2,156,1,8X-pol,2,156,1,8X-pol,2,156,1,8X-pol,25,MCI,AC,3,1,1,MW,56
+MTR_l22gz1,yes,Outdoor,NB Lattice Tower,36,1,3,2,0,Huawei,1,330,0.2,8X-pol,1,330,0.2,8X-pol,1,330,0.2,8X-pol,1,330,0.2,8X-pol,25,MCI,AC,3,1,0,Fiber,65
+MTR_y983oe0,no,Outdoor,Lattice,42,3,3,3,0,Huawei,2,300,0,4X-Pol,2,300,0,4X-Pol,2,300,0,4X-Pol,2,300,0,4X-Pol,25,MCI,AC,3,1,1,MW,99
+MTR_p374yf0,no,Indoor,NB Lattice Tower,42,2,3,2,1,Kathrein,2,300,0.2,5X-Pol,2,300,0.2,5X-Pol,2,300,0.2,5X-Pol,2,300,0.2,5X-Pol,250,TM,DC,3,125,6,Fiber-TCX,68
+MTR_n572vo0,yes,Outdoor,Monopole,24,2,2,2,2,Huawei,2,350,0,8X-pol,2,350,0,8X-pol,2,350,0,8X-pol,2,350,0,8X-pol,25,MCI,AC,3,1,0,Fiber,92
+MTR_y64lh0,no,Outdoor,NB Lattice Tower,36,2,2,1,3,Huawei,1,200,0,8X-pol,1,200,0,8X-pol,1,200,0,8X-pol,1,200,0,8X-pol,25,MCI,AC,3,1,1,MW,100
+MTR_j777al1,yes,Indoor,Monopole,30,3,3,3,0,Kathrein,2,325,0.2,5X-Pol,2,325,0.2,5X-Pol,2,325,0.2,5X-Pol,2,325,0.2,5X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,97
+MTR_v42ir0,no,Outdoor,NB Lattice Tower,36,2,3,1,1,Kathrein,2,355,0,8X-pol,2,355,0,8X-pol,2,355,0,8X-pol,2,355,0,8X-pol,25,MCI,AC,3,1,1,MW,85
+MTR_f485ax0,no,Outdoor,Monopole,24,2,2,1,3,Takta,2,300,0.2,8X-pol,2,300,0.2,8X-pol,2,300,0.2,8X-pol,2,300,0.2,8X-pol,25,MCI,AC,3,1,0,Fiber,93
+MTR_w522uy1,yes,Indoor,NB Lattice Tower,48,1,3,2,0,Huawei,2,325,0.2,8X-pol,2,325,0.2,8X-pol,2,325,0.2,8X-pol,2,325,0.2,8X-pol,125,TM,AC,0,50,1,Fiber-TCX,64
+MTR_v671ie0,no,Outdoor,NB Lattice Tower,48,2,2,2,1,Huawei,1,355,1,2X-Pol,1,355,1,2X-Pol,1,355,1,2X-Pol,1,355,1,2X-Pol,25,MCI,AC,3,1,1,MW,58
+MTR_g871gj1,yes,Outdoor,NB Lattice Tower,36,3,3,3,2,Antenkar,1,156,2,12X-pol,1,156,2,12X-pol,1,156,2,12X-pol,1,156,2,12X-pol,25,MCI,AC,3,1,0,Fiber,72
+MTR_w709cu1,no,Indoor,NB Lattice Tower,36,1,1,1,1,Huawei,1,340,0,8X-pol,1,340,0,8X-pol,1,340,0,8X-pol,1,340,0,8X-pol,25,MCI,AC,3,1,0,Fiber,72
+MTR_l887on1,no,Outdoor,NB Lattice Tower,42,3,0,1,2,Huawei,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,1,350,0,8X-pol,25,MCI,AC,3,1,0,Fiber,89
+MTR_n740zu0,no,Outdoor,Monopole,30,2,2,1,3,Huawei,2,345,1,12X-pol,2,345,1,12X-pol,2,345,1,12X-pol,2,345,1,12X-pol,25,MCI,AC,3,1,0,Fiber,88
+MTR_v855lg0,yes,Indoor,NB Lattice Tower,42,3,3,2,1,Kathrein,2,340,0,4X-Pol,2,340,0,4X-Pol,2,340,0,4X-Pol,2,340,0,4X-Pol,25,MCI,AC,3,1,1,MW,86
+MTR_z347nv0,no,Indoor,NB Lattice Tower,48,2,2,1,3,Kathrein,2,152,1,2X-Pol,2,152,1,2X-Pol,2,152,1,2X-Pol,2,152,1,2X-Pol,25,TM,DC,3,63,0,Fiber-TCX,66
+MTR_i9mx1,no,Indoor,Monopole,30,3,0,1,2,Huawei,1,220,0,4X-Pol,1,220,0,4X-Pol,1,220,0,4X-Pol,1,220,0,4X-Pol,25,TM,DC,3,80,2,Fiber,87
+MTR_o933ap1,yes,Outdoor,Lattice,36,1,0,1,0,Kathrein,1,300,0,8X-pol,1,300,0,8X-pol,1,300,0,8X-pol,1,300,0,8X-pol,25,MCI,AC,3,1,0,Fiber,86
+MTR_m153dd0,yes,Outdoor,Monopole,30,1,0,1,0,Huawei,1,288,1,5X-Pol,1,288,1,5X-Pol,1,288,1,5X-Pol,1,288,1,5X-Pol,25,MCI,AC,3,1,0,Fiber,66
+MTR_e458wf1,yes,Indoor,Lattice,44,3,3,3,2,Huawei,1,320,0,8X-pol,1,320,0,8X-pol,1,320,0,8X-pol,1,320,0,8X-pol,25,TM,DC,3,125,1,BW-ETH,66
+MTR_x551ei1,no,Indoor,Lattice,42,2,2,2,0,Kathrein,1,111,0,2X-Pol,1,111,0,2X-Pol,1,111,0,2X-Pol,1,111,0,2X-Pol,32,TM,DC,3,40,1,MW-TCX,98
+MTR_k422qa1,yes,Outdoor,Monopole,24,2,2,2,0,Huawei,1,290,0,4X-Pol,1,290,0,4X-Pol,1,290,0,4X-Pol,1,290,0,4X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,86
+MTR_a248hv0,yes,Outdoor,Lattice,54,3,3,2,1,Kathrein,2,300,1,12X-pol,2,300,1,12X-pol,2,300,1,12X-pol,2,300,1,12X-pol,25,MCI,AC,3,1,0,Fiber-TCX,49
+MTR_g52ub0,yes,Outdoor,NB Lattice Tower,36,1,3,2,1,Huawei,1,335,0.2,12X-pol,1,335,0.2,12X-pol,1,335,0.2,12X-pol,1,335,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber,75
+MTR_z780tk1,no,Outdoor,Lattice,54,3,3,4,2,Huawei,2,330,0,8X-pol,2,330,0,8X-pol,2,330,0,8X-pol,2,330,0,8X-pol,15,MCI,AC,3,1,1,MW-Fiber-TCX,52
+MTR_f206fy0,no,Outdoor,NB Lattice Tower,54,1,1,2,2,Kathrein,2,114,0.2,12X-pol,2,114,0.2,12X-pol,2,114,0.2,12X-pol,2,114,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber-TCX,98
+MTR_g618mr1,no,Outdoor,NB Lattice Tower,42,3,0,1,2,Kathrein,2,285,2,8X-pol,2,285,2,8X-pol,2,285,2,8X-pol,2,285,2,8X-pol,25,MCI,AC,3,1,1,MW,87
+MTR_w642mb1,no,Outdoor,Lattice,42,3,3,2,1,Kathrein,2,350,2,12X-pol,2,350,2,12X-pol,2,350,2,12X-pol,2,350,2,12X-pol,25,MCI,AC,3,1,1,MW-TCX,87
+MTR_c558vn0,no,Indoor,Lattice,42,3,3,4,2,Huawei,1,7,2,2X-Pol,1,7,2,2X-Pol,1,7,2,2X-Pol,1,7,2,2X-Pol,16,TM,AC,0,32,1,MW,93
+MTR_r739gu1,no,Outdoor,NB Lattice Tower,48,3,3,4,2,Antenkar,1,285,1,8X-pol,1,285,1,8X-pol,1,285,1,8X-pol,1,285,1,8X-pol,10,TOM,AC,0,32,1,MW,94
+MTR_t287xy0,no,Outdoor,Monopole,30,2,2,2,0,Huawei,2,300,2,12X-pol,2,300,2,12X-pol,2,300,2,12X-pol,2,300,2,12X-pol,25,MCI,AC,3,1,1,MW,88
+MTR_z603fy0,no,Indoor,Lattice,42,3,3,4,2,Kathrein,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,25,MCI,AC,3,1,2,Fiber-TCX,88
+MTR_k265hc0,no,Outdoor,NB Lattice Tower,36,2,3,2,1,Kathrein,1,285,2,8X-pol,1,285,2,8X-pol,1,285,2,8X-pol,1,285,2,8X-pol,25,MCI,AC,3,1,0,Fiber,94
+MTR_z656yp1,yes,Outdoor,Pole,4,2,2,2,2,Kathrein,2,350,1,12X-pol,2,350,1,12X-pol,2,350,1,12X-pol,2,350,1,12X-pol,25,MCI,AC,1,1,1,MW-TCX,95
+MTR_p287dn1,no,Indoor,Lattice,31.5,3,3,2,1,Huawei,1,355,0,8X-pol,1,355,0,8X-pol,1,355,0,8X-pol,1,355,0,8X-pol,50,TM,AC,3,50,0,BW-ETH,65
+MTR_y991gv0,no,Indoor,Lattice,42,3,2,1,0,Kathrein,1,152,1,5X-Pol,1,152,1,5X-Pol,1,152,1,5X-Pol,1,152,1,5X-Pol,25,MCI,AC,3,1,2,Fiber-TCX,96
+MTR_u690jt0,no,Indoor,NB Lattice Tower,36,2,2,2,1,Kathrein,2,123,0.2,12X-pol,2,123,0.2,12X-pol,2,123,0.2,12X-pol,2,123,0.2,12X-pol,16,TOM,AC,0,32,1,MW,96
+MTR_o698bk0,no,Indoor,Lattice,54,2,3,2,1,Kathrein,2,114,0.2,5X-Pol,2,114,0.2,5X-Pol,2,114,0.2,5X-Pol,2,114,0.2,5X-Pol,25,MCI,AC,3,1,1,MW,52
+MTR_p703py1,no,Indoor,Lattice,36,1,3,2,0,Huawei,1,285,0,5X-Pol,1,285,0,5X-Pol,1,285,0,5X-Pol,1,285,0,5X-Pol,25,MCI,AC,3,1,3,Fiber-TCX,68
+MTR_m502ql0,no,Outdoor,NB Lattice Tower,36,3,3,2,1,Huawei,1,320,0,12X-pol,1,320,0,12X-pol,1,320,0,12X-pol,1,320,0,12X-pol,25,MCI,AC,3,1,3,Fiber,68
+MTR_s90di1,yes,Outdoor,NB Lattice Tower,48,3,0,1,2,Kathrein,1,200,2,5X-Pol,1,200,2,5X-Pol,1,200,2,5X-Pol,1,200,2,5X-Pol,32,MCI,AC,3,1,1,MW,49
+MTR_x248aq0,yes,Indoor,Monopole,24,1,1,1,1,Kathrein,2,155,2,5X-Pol,2,155,2,5X-Pol,2,155,2,5X-Pol,2,155,2,5X-Pol,25,TM,AC,3,32,1,MW,76
+MTR_n57td0,no,Outdoor,NB Lattice Tower,36,1,1,1,1,Huawei,2,220,0,2X-Pol,2,220,0,2X-Pol,2,220,0,2X-Pol,2,220,0,2X-Pol,25,MCI,AC,3,1,0,Fiber,66
+MTR_w619zb0,no,Outdoor,Monopole,24,3,3,4,2,Huawei,1,310,0,2X-Pol,1,310,0,2X-Pol,1,310,0,2X-Pol,1,310,0,2X-Pol,25,MCI,AC,3,1,0,Fiber,75
+MTR_s887aa1,no,Outdoor,NB Lattice Tower,48,2,2,2,2,Takta,2,340,1,2X-Pol,2,340,1,2X-Pol,2,340,1,2X-Pol,2,340,1,2X-Pol,25,TM,AC,0,50,0,Fiber-TCX,94
+MTR_u351ud0,yes,Indoor,Lattice,36,1,3,2,0,Takta,2,330,1,8X-pol,2,330,1,8X-pol,2,330,1,8X-pol,2,330,1,8X-pol,25,MCI,AC,3,1,2,Fiber-TCX,93
+MTR_s337kb0,yes,Indoor,Lattice,84,3,0,1,2,Huawei,2,151,1,4X-Pol,2,151,1,4X-Pol,2,151,1,4X-Pol,2,151,1,4X-Pol,10,TOM,AC,0,32,2,MW,66
+MTR_c332xj0,yes,Outdoor,Monopole,36,2,2,2,1,Huawei,2,320,0,5X-Pol,2,320,0,5X-Pol,2,320,0,5X-Pol,2,320,0,5X-Pol,25,MCI,AC,3,1,1,MW,97
+MTR_q407ci0,yes,Indoor,Lattice,36,1,1,1,1,Kathrein,2,330,1,2X-Pol,2,330,1,2X-Pol,2,330,1,2X-Pol,2,330,1,2X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,71
+MTR_l123jc1,no,Outdoor,NB Lattice Tower,36,1,0,1,0,Antenkar,2,144,0,2X-Pol,2,144,0,2X-Pol,2,144,0,2X-Pol,2,144,0,2X-Pol,25,MCI,AC,3,1,1,MW,91
+MTR_q288cz0,yes,Outdoor,NB Lattice Tower,36,3,3,2,1,Antenkar,2,156,0.2,2X-Pol,2,156,0.2,2X-Pol,2,156,0.2,2X-Pol,2,156,0.2,2X-Pol,25,MCI,AC,3,1,1,MW,89
+MTR_k32gu1,yes,Outdoor,Monopole,18,2,3,1,1,Huawei,1,310,1,8X-pol,1,310,1,8X-pol,1,310,1,8X-pol,1,310,1,8X-pol,25,MCI,AC,3,1,0,Fiber,73
+MTR_f660fd1,no,Indoor,NB Lattice Tower,42,2,2,1,3,Antenkar,2,330,0,8X-pol,2,330,0,8X-pol,2,330,0,8X-pol,2,330,0,8X-pol,25,TOM,AC,3,32,1,Fiber-TCX,75
+MTR_s644ps0,yes,Outdoor,Pylon,12,2,2,1,3,Kathrein,2,330,0.2,8X-pol,2,330,0.2,8X-pol,2,330,0.2,8X-pol,2,330,0.2,8X-pol,25,MCI,DC,1,25,1,MW,88
+MTR_q778fh1,yes,Outdoor,Lattice,42,2,2,2,1,Huawei,1,152,1,8X-pol,1,152,1,8X-pol,1,152,1,8X-pol,1,152,1,8X-pol,25,MCI,AC,3,1,1,MW,72
+MTR_g974df0,yes,Outdoor,Lattice,54,2,2,2,0,Takta,2,350,2,12X-pol,2,350,2,12X-pol,2,350,2,12X-pol,2,350,2,12X-pol,25,MCI,AC,3,1,2,MW,72
+MTR_y102ey1,no,Outdoor,Monopole,24,2,2,1,3,Kathrein,2,200,0.2,12X-pol,2,200,0.2,12X-pol,2,200,0.2,12X-pol,2,200,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber,87
+MTR_o730ln1,no,Indoor,NB Lattice Tower,42,1,1,2,2,Huawei,2,300,2,12X-pol,2,300,2,12X-pol,2,300,2,12X-pol,2,300,2,12X-pol,20,TM,AC,0,32,1,BW-ETH,85
+MTR_p922kl0,no,Indoor,Lattice,96,2,2,2,0,Kathrein,2,200,1,8X-pol,2,200,1,8X-pol,2,200,1,8X-pol,2,200,1,8X-pol,10,TOM,AC,0,32,2,MW-TCX,68
+MTR_w25ph1,yes,Outdoor,NB Lattice Tower,36,2,2,1,3,Huawei,1,156,2,5X-Pol,1,156,2,5X-Pol,1,156,2,5X-Pol,1,156,2,5X-Pol,25,MCI,AC,3,1,1,MW,92
+MTR_t779by1,yes,Outdoor,Monopole,24,1,1,1,1,Kathrein,1,288,1,8X-pol,1,288,1,8X-pol,1,288,1,8X-pol,1,288,1,8X-pol,25,MCI,AC,3,1,0,Fiber,91
+MTR_i539yn0,no,Outdoor,NB Lattice Tower,36,2,2,2,2,Kathrein,2,315,2,2X-Pol,2,315,2,2X-Pol,2,315,2,2X-Pol,2,315,2,2X-Pol,25,MCI,AC,3,1,1,MW,93
+MTR_t743ob0,yes,Outdoor,NB Lattice Tower,42,2,3,2,1,Kathrein,2,330,2,5X-Pol,2,330,2,5X-Pol,2,330,2,5X-Pol,2,330,2,5X-Pol,25,MCI,AC,3,1,1,MW,97
+MTR_x342ri1,yes,Outdoor,NB Lattice Tower,42,2,3,1,1,Huawei,2,200,2,5X-Pol,2,200,2,5X-Pol,2,200,2,5X-Pol,2,200,2,5X-Pol,25,MCI,AC,3,1,1,MW,95
+MTR_r350ku0,yes,Outdoor,NB Lattice Tower,42,2,2,1,3,Huawei,2,265,0,4X-Pol,2,265,0,4X-Pol,2,265,0,4X-Pol,2,265,0,4X-Pol,25,MCI,AC,3,1,1,MW,91
+MTR_j559et1,yes,Outdoor,Lattice,66,2,2,2,2,Huawei,2,220,1,5X-Pol,2,220,1,5X-Pol,2,220,1,5X-Pol,2,220,1,5X-Pol,10,TOM,AC,0,32,2,MW,92
+MTR_u465dz0,no,Outdoor,Monopole,24,2,2,2,2,Kathrein,1,340,1,8X-pol,1,340,1,8X-pol,1,340,1,8X-pol,1,340,1,8X-pol,25,MCI,AC,3,1,1,Fiber,54
+MTR_z923os1,yes,Indoor,Lattice,54,1,3,2,0,Takta,1,315,2,4X-Pol,1,315,2,4X-Pol,1,315,2,4X-Pol,1,315,2,4X-Pol,25,MCI,AC,3,1,1,MW,87
+MTR_v432ql1,no,Indoor,Lattice,54,1,0,1,0,Kathrein,1,185,1,2X-Pol,1,185,1,2X-Pol,1,185,1,2X-Pol,1,185,1,2X-Pol,25,TM,DC,3,32,0,Fiber-TCX,58
+MTR_q690gz1,no,Indoor,Lattice,24,1,1,1,1,Huawei,2,111,0,12X-pol,2,111,0,12X-pol,2,111,0,12X-pol,2,111,0,12X-pol,25,MCI,AC,3,1,1,MW,75
+MTR_n783jy0,yes,Outdoor,Guyed Mast,18,1,3,2,0,Antenkar,2,355,1,4X-Pol,2,355,1,4X-Pol,2,355,1,4X-Pol,2,355,1,4X-Pol,25,MCI,AC,3,1,0,Fiber,100
+MTR_v907qj1,yes,Outdoor,NB Lattice Tower,36,2,2,1,3,Huawei,2,280,0.2,12X-pol,2,280,0.2,12X-pol,2,280,0.2,12X-pol,2,280,0.2,12X-pol,25,MCI,AC,3,1,0,Fiber,76
+MTR_v226pk1,yes,Indoor,NB Lattice Tower,36,2,2,2,2,Huawei,1,332,0,8X-pol,1,332,0,8X-pol,1,332,0,8X-pol,1,332,0,8X-pol,25,MCI,AC,3,1,1,Fiber,73
+MTR_m683py1,yes,Outdoor,Lattice,54,1,3,2,0,Kathrein,1,340,0,2X-Pol,1,340,0,2X-Pol,1,340,0,2X-Pol,1,340,0,2X-Pol,25,MCI,AC,3,1,1,MW,66
+MTR_o414cv1,no,Indoor,Lattice,42,3,3,4,2,Huawei,1,315,0.2,4X-Pol,1,315,0.2,4X-Pol,1,315,0.2,4X-Pol,1,315,0.2,4X-Pol,32,TM,AC,0,40,0,Fiber,74
+MTR_k634su1,yes,Indoor,Lattice,48,2,2,2,1,Huawei,1,300,0,5X-Pol,1,300,0,5X-Pol,1,300,0,5X-Pol,1,300,0,5X-Pol,32,TM,AC,0,50,2,BW-ETH,58
+MTR_n368xt0,no,Indoor,Lattice,24,3,0,1,2,Antenkar,1,330,2,12X-pol,1,330,2,12X-pol,1,330,2,12X-pol,1,330,2,12X-pol,32,MCI,AC,3,1,1,MW,100
+MTR_p320hb0,no,Outdoor,Pylon,12,1,1,1,1,Kathrein,2,265,0.2,12X-pol,2,265,0.2,12X-pol,2,265,0.2,12X-pol,2,265,0.2,12X-pol,25,MCI,DC,1,25,0,Fiber,55
+MTR_v83nm0,yes,Outdoor,NB Lattice Tower,36,2,2,2,0,Antenkar,1,322,2,2X-Pol,1,322,2,2X-Pol,1,322,2,2X-Pol,1,322,2,2X-Pol,32,MCI,AC,3,1,1,MW,86
+MTR_i776fc1,no,Outdoor,Monopole,30,3,3,3,2,Huawei,1,340,0,8X-pol,1,340,0,8X-pol,1,340,0,8X-pol,1,340,0,8X-pol,25,MCI,AC,3,1,0,Fiber,58
+MTR_v13rs0,yes,Outdoor,Monopole,24,3,2,1,0,Huawei,1,305,1,8X-pol,1,305,1,8X-pol,1,305,1,8X-pol,1,305,1,8X-pol,25,MCI,AC,3,1,0,Fiber,72
+MTR_k516rg1,yes,Indoor,Lattice,54,3,3,3,2,Huawei,1,330,1,4X-Pol,1,330,1,4X-Pol,1,330,1,4X-Pol,1,330,1,4X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,97
+MTR_g710rb1,no,Outdoor,Guyed Mast,18,3,3,3,2,Huawei,2,200,0,5X-Pol,2,200,0,5X-Pol,2,200,0,5X-Pol,2,200,0,5X-Pol,25,MCI,AC,3,1,1,MW,71
+MTR_h225cx0,yes,Outdoor,Lattice,60,1,1,2,2,Kathrein,1,325,2,5X-Pol,1,325,2,5X-Pol,1,325,2,5X-Pol,1,325,2,5X-Pol,25,MCI,AC,3,1,1,MW,64
+MTR_u902iw1,yes,Outdoor,Monopole,18,1,1,2,2,Huawei,1,300,1,8X-pol,1,300,1,8X-pol,1,300,1,8X-pol,1,300,1,8X-pol,25,MCI,AC,3,1,0,Fiber,56
+MTR_t537cp0,yes,Indoor,Lattice,42,1,3,2,1,Kathrein,2,330,0.2,5X-Pol,2,330,0.2,5X-Pol,2,330,0.2,5X-Pol,2,330,0.2,5X-Pol,32,MCI,AC,3,1,3,Fiber-TCX,88
+MTR_y61bm1,no,Outdoor,Monopole,24,1,3,2,1,Huawei,2,300,2,8X-pol,2,300,2,8X-pol,2,300,2,8X-pol,2,300,2,8X-pol,25,MCI,AC,3,1,0,Fiber,94
+MTR_x569nh0,no,Outdoor,NB Lattice Tower,54,3,3,2,1,Kathrein,2,152,1,12X-pol,2,152,1,12X-pol,2,152,1,12X-pol,2,152,1,12X-pol,25,MCI,AC,3,1,1,MW,99
+MTR_n714qv1,no,Outdoor,Lattice,36,2,2,2,2,Huawei,2,300,1,8X-pol,2,300,1,8X-pol,2,300,1,8X-pol,2,300,1,8X-pol,25,MCI,AC,3,1,0,Fiber,75
+MTR_g550tp0,yes,Indoor,NB Lattice Tower,48,1,1,2,2,Huawei,2,7,1,12X-pol,2,7,1,12X-pol,2,7,1,12X-pol,2,7,1,12X-pol,25,TM,AC,3,40,0,Fiber-TCX,89
+MTR_f158yy0,yes,Outdoor,NB Lattice Tower,36,2,2,2,2,Antenkar,2,144,0,8X-pol,2,144,0,8X-pol,2,144,0,8X-pol,2,144,0,8X-pol,32,MCI,AC,3,1,3,Fiber,58
+MTR_c183lk0,yes,Indoor,Guyed Mast,24,2,3,1,1,Antenkar,1,285,2,8X-pol,1,285,2,8X-pol,1,285,2,8X-pol,1,285,2,8X-pol,32,MCI,AC,3,1,2,MW,91
+MTR_k336ie1,yes,Indoor,Lattice,54,3,2,1,0,Kathrein,2,320,0.2,8X-pol,2,320,0.2,8X-pol,2,320,0.2,8X-pol,2,320,0.2,8X-pol,25,MCI,AC,3,1,0,Fiber-TCX,73
+MTR_f421km1,yes,Outdoor,Lattice,36,2,2,1,3,Kathrein,2,152,2,8X-pol,2,152,2,8X-pol,2,152,2,8X-pol,2,152,2,8X-pol,25,MCI,AC,3,1,2,MW,56
+MTR_i63lw0,yes,Outdoor,Monopole,24,1,0,1,0,Huawei,1,258,2,8X-pol,1,258,2,8X-pol,1,258,2,8X-pol,1,258,2,8X-pol,25,MCI,AC,3,1,0,Fiber,92
+MTR_l456in0,yes,Indoor,Lattice,48,3,0,1,2,Huawei,2,150,0,4X-Pol,2,150,0,4X-Pol,2,150,0,4X-Pol,2,150,0,4X-Pol,80,TM,DC,0,100,1,Fiber-TCX,65
+MTR_j89ig0,no,Indoor,Lattice,54,1,0,1,0,Huawei,1,240,0,4X-Pol,1,240,0,4X-Pol,1,240,0,4X-Pol,1,240,0,4X-Pol,125,TM,DC,0,125,2,Fiber-TCX,88
+MTR_h198ki0,yes,Indoor,Lattice,30,3,3,4,2,Huawei,1,330,0,8X-pol,1,330,0,8X-pol,1,330,0,8X-pol,1,330,0,8X-pol,50,TM,DC,3,125,0,BW-ETH,72
+MTR_c774ol0,no,Outdoor,NB Lattice Tower,42,2,2,2,0,Kathrein,2,310,2,5X-Pol,2,310,2,5X-Pol,2,310,2,5X-Pol,2,310,2,5X-Pol,25,MCI,AC,3,1,1,MW,55
+MTR_n18qn1,no,Indoor,Lattice,42,1,1,1,1,Kathrein,2,315,0,8X-pol,2,315,0,8X-pol,2,315,0,8X-pol,2,315,0,8X-pol,50,TM,AC,3,50,0,BW-ETH,52
+MTR_e329uw1,yes,Outdoor,Monopole,24,3,2,1,0,Huawei,2,255,0.2,8X-pol,2,255,0.2,8X-pol,2,255,0.2,8X-pol,2,255,0.2,8X-pol,25,MCI,AC,3,1,0,Fiber,98
+MTR_u741jw0,yes,Indoor,Lattice,23,1,3,2,0,Huawei,1,265,0,8X-pol,1,265,0,8X-pol,1,265,0,8X-pol,1,265,0,8X-pol,50,TM,AC,3,50,3,BW-ETH,66
+MTR_w740rf0,yes,Outdoor,Monopole,36,1,1,1,1,Kathrein,2,290,1,5X-Pol,2,290,1,5X-Pol,2,290,1,5X-Pol,2,290,1,5X-Pol,25,MCI,AC,3,1,0,Fiber,73
+MTR_m387eb1,yes,Indoor,Monopole,24,1,1,2,2,Huawei,1,111,0,8X-pol,1,111,0,8X-pol,1,111,0,8X-pol,1,111,0,8X-pol,125,TM,DC,0,125,0,Fiber,49
+MTR_f467zs1,yes,Outdoor,Monopole,30,1,0,1,0,Huawei,2,350,1,8X-pol,2,350,1,8X-pol,2,350,1,8X-pol,2,350,1,8X-pol,25,MCI,AC,3,1,1,MW,87
+MTR_z413om1,no,Outdoor,Monopole,24,2,3,1,1,Huawei,1,358,0,8X-pol,1,358,0,8X-pol,1,358,0,8X-pol,1,358,0,8X-pol,25,MCI,AC,3,1,0,Fiber,58
+MTR_c617bi0,no,Outdoor,Lattice,54,3,0,1,2,Kathrein,1,350,0.2,5X-Pol,1,350,0.2,5X-Pol,1,350,0.2,5X-Pol,1,350,0.2,5X-Pol,25,MCI,AC,3,1,4,MW,85
+MTR_s145et1,yes,Indoor,Monopole,24,2,3,2,1,Huawei,2,300,0.2,5X-Pol,2,300,0.2,5X-Pol,2,300,0.2,5X-Pol,2,300,0.2,5X-Pol,25,TM,AC,3,50,0,BW-ETH,96
+MTR_m296ku1,yes,Outdoor,Monopole,24,2,3,1,1,Huawei,1,250,0,8X-pol,1,250,0,8X-pol,1,250,0,8X-pol,2,250,0,8X-pol,25,MCI,AC,3,1,0,Fiber,95
+MTR_b808sb1,yes,Indoor,NB Lattice Tower,54,3,2,1,0,Antenkar,1,150,1,8X-pol,1,150,1,8X-pol,1,150,1,8X-pol,1,150,1,8X-pol,25,MCI,AC,3,1,1,MW,54
+MTR_i706nd1,yes,Outdoor,Lattice,42,2,3,2,1,Huawei,1,225,1,5X-Pol,1,225,1,5X-Pol,1,225,1,5X-Pol,1,225,1,5X-Pol,25,MCI,AC,3,1,0,Fiber-TCX,72
+MTR_a977yv1,yes,Outdoor,Lattice,42,1,3,2,0,Kathrein,1,350,1,12X-pol,1,350,1,12X-pol,1,350,1,12X-pol,1,350,1,12X-pol,25,MCI,AC,3,1,1,MW,88
+MTR_g489ul1,yes,Outdoor,Pylon,12,2,2,2,2,Kathrein,1,335,0,5X-Pol,1,335,0,5X-Pol,1,335,0,5X-Pol,1,335,0,5X-Pol,25,MCI,DC,1,25,4,HDSL,75
+MTR_u128ks0,yes,Outdoor,NB Lattice Tower,36,3,3,4,2,Huawei,1,330,2,8X-pol,1,330,2,8X-pol,1,330,2,8X-pol,1,330,2,8X-pol,25,MCI,AC,3,1,0,Fiber,92
+MTR_t38tm0,no,Outdoor,NB Lattice Tower,42,2,2,2,2,Huawei,1,305,0,12X-pol,1,305,0,12X-pol,1,305,0,12X-pol,1,305,0,12X-pol,25,MCI,AC,1,1,1,MW,85
+MTR_f830xf1,no,Indoor,NB Lattice Tower,18,1,0,1,0,Kathrein,1,114,0,8X-pol,1,114,0,8X-pol,1,114,0,8X-pol,1,114,0,8X-pol,16,TM,AC,0,32,0,Fiber-TCX,58
+MTR_j823la1,yes,Outdoor,Lattice,54,1,1,1,1,Takta,1,345,0.2,2X-Pol,1,345,0.2,2X-Pol,1,345,0.2,2X-Pol,1,345,0.2,2X-Pol,32,MCI,AC,3,1,2,BW-ETH,96
+MTR_m175gs0,yes,Indoor,Lattice,36,2,2,2,2,Takta,2,357,2,5X-Pol,2,357,2,5X-Pol,2,357,2,5X-Pol,2,357,2,5X-Pol,25,MCI,AC,3,1,3,Fiber-TCX,66
+MTR_o57rc1,yes,Indoor,Lattice,48,2,2,1,3,Huawei,1,200,2,5X-Pol,1,200,2,5X-Pol,1,200,2,5X-Pol,1,200,2,5X-Pol,10,TOM,AC,0,32,0,Fiber-TCX,58
+MTR_y329qy0,yes,Indoor,Lattice,54,3,3,3,0,Huawei,1,310,0,8X-pol,1,310,0,8X-pol,1,310,0,8X-pol,1,310,0,8X-pol,32,TOM,AC,0,50,0,Fiber,89
+MTR_s922tc1,yes,Indoor,Lattice,42,2,3,1,1,Huawei,2,358,1,2X-Pol,2,358,1,2X-Pol,2,358,1,2X-Pol,2,358,1,2X-Pol,25,MCI,AC,3,1,3,Fiber-TCX,56
+MTR_q835kk1,no,Outdoor,Pylon,12,3,3,4,2,Kathrein,1,330,2,2X-Pol,1,330,2,2X-Pol,1,330,2,2X-Pol,1,330,2,2X-Pol,25,MCI,DC,1,25,1,MW,73
+MTR_m141ap1,yes,Indoor,Lattice,36,3,3,4,2,Takta,2,151,0.2,5X-Pol,2,151,0.2,5X-Pol,2,151,0.2,5X-Pol,2,151,0.2,5X-Pol,25,MCI,AC,3,1,1,Fiber-TCX,54
+MTR_l701bc1,yes,Outdoor,NB Lattice Tower,42,2,3,1,1,Antenkar,1,335,0.2,5X-Pol,1,335,0.2,5X-Pol,1,335,0.2,5X-Pol,1,335,0.2,5X-Pol,25,MCI,AC,3,1,1,MW,87
+MTR_w540gv0,yes,Outdoor,Monopole,24,3,2,1,0,Huawei,2,300,2,5X-Pol,2,300,2,5X-Pol,2,300,2,5X-Pol,2,300,2,5X-Pol,25,MCI,AC,3,1,0,Fiber,72
+MTR_j855fw1,no,Indoor,Lattice,95,1,3,2,1,Kathrein,1,315,1,2X-Pol,1,315,1,2X-Pol,1,315,1,2X-Pol,1,315,1,2X-Pol,40,ZM,DC,0,40,0,Fiber-TCX,96
+MTR_a103xn1,no,Indoor,Lattice,36,1,0,1,0,Takta,1,114,0.2,5X-Pol,1,114,0.2,5X-Pol,1,114,0.2,5X-Pol,1,114,0.2,5X-Pol,25,MCI,AC,3,1,2,Fiber-TCX,55
+MTR_g876ne0,no,Indoor,Lattice,36,3,3,4,2,Kathrein,2,300,1,8X-pol,2,300,1,8X-pol,2,300,1,8X-pol,2,300,1,8X-pol,25,MCI,AC,3,1,1,Fiber-TCX,87
+MTR_v442nv0,no,Outdoor,NB Lattice Tower,42,2,3,1,1,Kathrein,1,345,1,8X-pol,1,345,1,8X-pol,1,345,1,8X-pol,1,345,1,8X-pol,20,TOM,AC,0,32,2,MW,75
+MTR_h266ll0,no,Outdoor,Lattice,54,2,2,2,1,Huawei,2,114,2,8X-pol,2,114,2,8X-pol,2,114,2,8X-pol,2,114,2,8X-pol,25,MCI,AC,3,1,1,MW,98
+MTR_x209ls0,yes,Indoor,Lattice,42,3,3,3,2,Kathrein,1,288,0,5X-Pol,1,288,0,5X-Pol,1,288,0,5X-Pol,1,288,0,5X-Pol,25,MCI,AC,3,1,1,MW,73
+MTR_q690iv1,no,Indoor,Lattice,36,3,2,1,0,Kathrein,2,355,0,2X-Pol,2,355,0,2X-Pol,2,355,0,2X-Pol,2,355,0,2X-Pol,25,MCI,AC,3,1,2,MW,52
+MTR_f60pk1,no,Indoor,Lattice,22.2,2,2,1,3,Antenkar,1,114,1,8X-pol,1,114,1,8X-pol,1,114,1,8X-pol,1,114,1,8X-pol,25,MCI,AC,3,1,1,Fiber-TCX,94
+MTR_r719bu0,no,Outdoor,NB Lattice Tower,42,3,0,1,2,Huawei,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,2,200,1,5X-Pol,25,MCI,AC,3,1,1,MW,88
+MTR_k953lv0,no,Outdoor,Monopole,24,2,2,2,2,Huawei,1,290,0,2X-Pol,1,290,0,2X-Pol,1,290,0,2X-Pol,1,290,0,2X-Pol,25,MCI,AC,3,1,0,Fiber,55
+MTR_n824wt0,no,Outdoor,Monopole,24,1,1,2,2,Huawei,1,345,2,5X-Pol,1,345,2,5X-Pol,1,345,2,5X-Pol,1,345,2,5X-Pol,25,TM,AC,3,32,1,Fiber-TCX,99
+MTR_r831qe1,no,Indoor,Lattice,42,2,2,1,3,Huawei,2,252,0.2,12X-pol,2,252,0.2,12X-pol,2,252,0.2,12X-pol,2,252,0.2,12X-pol,50,MCI,AC,3,1,1,Fiber-TCX,85
+MTR_k121xo0,no,Outdoor,Monopole,24,2,2,2,1,Huawei,1,300,0,12X-pol,1,300,0,12X-pol,1,300,0,12X-pol,1,300,0,12X-pol,25,MCI,AC,3,1,0,Fiber,100
+MTR_p88ka0,yes,Outdoor,Lattice,54,1,1,2,2,Takta,1,111,1,5X-Pol,1,111,1,5X-Pol,1,111,1,5X-Pol,1,111,1,5X-Pol,32,TOM,DC,0,32,9,Fiber-TCX,98
+MTR_d730ob0,yes,Outdoor,NB Lattice Tower,36,3,3,3,0,Takta,1,350,2,8X-pol,1,350,2,8X-pol,1,350,2,8X-pol,1,350,2,8X-pol,25,MCI,AC,3,1,1,MW,73
+MTR_y181ls0,no,Outdoor,Lattice,54,3,0,1,2,Huawei,1,300,2,8X-pol,1,300,2,8X-pol,1,300,2,8X-pol,1,300,2,8X-pol,32,MCI,AC,3,1,2,MW,87
