@@ -22,18 +22,16 @@ Includes over 30 fields such as:
 
 ## 💡 Use Cases
 
-- ML model testing (clustering, classification)  
+- ML & DL model testing (clustering, classification)  
 - Educational notebooks 
 - Data visualization practice 
 
----
 
 ## 👤 Author
 
 **Mehdi Sahraei** – Ilam, Iran  
 📧 mahdi_sahrai@yahoo.com | [🔗 LinkedIn](https://www.linkedin.com/in/mehdisahraei)
 
----
 
 ## 📝 License
 
