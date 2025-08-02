@@ -1,30 +1,40 @@
+# 📡 Synthetic Telecom Cell Site Dataset (Iran)
 
-# 📡 telecom-site-ml
-### Machine Learning on Telecommunication Site Data (Cell Towers – Iran)
+This repository provides a **synthetic dataset** simulating telecom cell site configurations in Iran, designed for **machine learning**, **network modeling**, and **educational purposes**.
 
----
-
-### 📌 Overview
-This project uses machine learning on anonymized telecom cell site data to discover patterns and make predictions. We apply clustering to group similar towers and classification to predict their behavior based on location and technical details.
+> ⚠️ All data is **fictitious** and does **not** represent any real-world or confidential information.
 
 ---
 
-### 🎯 Goals
-- 🔍 Cluster similar telecom sites
-- 🤖 Build ML models to classify sites
-- 🗺️ Visualize sites
+## 📁 Dataset Features
+
+Includes over 30 fields such as:
+
+- 📍 Site type, tower type, height  
+- 📶 Technology counts (2G to 5G)  
+- 📡 Antenna specs (per sector: angle, tilt, tip)  
+- ⚡ Power metrics & phase codes  
+- 🌐 Link type & load percentage  
+
+📂 File: `data/fake_cellsite_data.csv`
 
 ---
 
-### 🛠️ Technologies
-- Python (pandas, scikit-learn, seaborn, folium, plotly)
-- Clustering: KMeans, DBSCAN, Agglomerative
-- Classification: RandomForest, XGBoost
-- Visualization: Plotly, Folium, Matplotlib
+## 💡 Use Cases
+
+- ML model testing (clustering, classification)  
+- Signal modeling & Kriging demos  
+- GIS and RF planning training
 
 ---
 
-### 👤 Author  
-**Mehdi Sahraei**  
-📍 Ilam, Iran  
-📧 [mahdi_sahrai@yahoo.com] | 💼 [https://www.linkedin.com/in/mehdisahraei] 
+## 👤 Author
+
+**Mehdi Sahraei** – Ilam, Iran  
+📧 mahdi_sahrai@yahoo.com | [🔗 LinkedIn](https://www.linkedin.com/in/mehdisahraei)
+
+---
+
+## 📝 License
+
+MIT – Free for research and educational use.
