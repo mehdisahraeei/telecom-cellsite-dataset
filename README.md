@@ -16,15 +16,15 @@ Includes over 30 fields such as:
 - ⚡ Power metrics & phase codes  
 - 🌐 Link type & load percentage  
 
-📂 File: `data/fake_cellsite_data.csv`
+📂 File: `dataset/dataset-tci.csv`
 
 ---
 
 ## 💡 Use Cases
 
 - ML model testing (clustering, classification)  
-- Signal modeling & Kriging demos  
-- GIS and RF planning training
+- Educational notebooks 
+- Data visualization practice 
 
 ---
 
@@ -37,4 +37,4 @@ Includes over 30 fields such as:
 
 ## 📝 License
 
-MIT – Free for research and educational use.
+Free for research and educational use.
